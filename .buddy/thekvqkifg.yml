@@ -1,4 +1,4 @@
-- pipeline: thekvqkifg
+- pipeline: Thekvqkifg
   refs:
   - refs/heads/master
   on: CLICK
